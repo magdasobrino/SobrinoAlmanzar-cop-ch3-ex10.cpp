@@ -2,8 +2,8 @@
  *  UCF COP3330 Fall 2021 Assignment 5 Solution
  *  Copyright 2021 Magdalena Sobrino-Almanzar
  */
+//github.com/magdasobrino/SobrinoAlmanzar-cop3330-ch3-ex10//
 
-//SobrinoAlmanzar-cop-ch3-ex10.cpp//
 
 #include <iostream>
 #include <string>
